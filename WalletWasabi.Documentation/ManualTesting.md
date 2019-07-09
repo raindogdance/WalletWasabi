@@ -39,7 +39,7 @@ Special case: always defined at the specific test case.
 
 ### How to determine if the application is exited?
 
-Look at the terminal. Wait until log messages stop and the blinking cursor reappears. If nothing happens appearingly, try to press enter. If the application hanged, you can also check it in process manager. If it is still running there might be an endless loop - an error which doesn't let the application close.
+Look at the terminal. Wait until log messages stop and the blinking cursor reappears. If nothing happens appearingly, try to press enter. If the application hanged, you can also check it in process manager. If it is still running, there might be an endless loop: an error which doesn't let the application close.
 
 # Workflow
 
