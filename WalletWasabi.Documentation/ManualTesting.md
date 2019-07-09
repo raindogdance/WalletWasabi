@@ -32,7 +32,7 @@ If someone made a change to the pull request and you want to go through the test
 
 Open Wasabi and go to Main Menu / File / Open / Data Folder.
 
-### How to check an error?
+### How to check for errors?
 
 Standard procedure: look at the terminal. If there is something saying ERROR or WARNING, that is probably an error.
 Special case: always defined at the specific test case.
