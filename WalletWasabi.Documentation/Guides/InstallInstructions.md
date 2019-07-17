@@ -127,7 +127,7 @@ If you prefer the Graphical User Interface, this guide is yours. There is also a
 
 3. Download Wasabi latest __release__ and the corresponding __.asc__ file.
 
-4. Double click on .asc file or right click More GpgEX options / Verify (if the context menu is missing - restart the computer).
+4. Double click on .asc file or right click More GpgEX options / Verify. If the context menu is missing - restart the computer.
 
 ![](https://i.imgur.com/fJME8Yh.png)
 
@@ -147,7 +147,7 @@ If you prefer the Graphical User Interface, this guide is yours. There is also a
 
 ![](https://i.imgur.com/PfdbegY.png)
 
-9. Press next, next, next. If there is an error you can try to import the key manually, navigate to section: [Import key manually](https://github.com/molnard/WalletWasabi/blob/patch-3/WalletWasabi.Documentation/Guides/InstallInstructions.md#import-key-manually)
+9. Press next, next, next. If there is an error, you can try to import the key manually, navigate to section: [Import key manually](https://github.com/molnard/WalletWasabi/blob/patch-3/WalletWasabi.Documentation/Guides/InstallInstructions.md#import-key-manually)
 
 9. Successful validation. The file was signed by the developer.
 
@@ -171,7 +171,7 @@ If you prefer the Graphical User Interface, this guide is yours. There is also a
 
 4. Save the file and close.
 
-5. Right click on pgp.txt. In the context menu navigate to More GpgEx options/Import keys. (If the context menu is missing restart the computer).
+5. Right click on pgp.txt. In the context menu navigate to More GpgEx options/Import keys. If the context menu is missing -  restart the computer.
 
 ![Imgur](https://i.imgur.com/qmuF3Hx.png)
 
