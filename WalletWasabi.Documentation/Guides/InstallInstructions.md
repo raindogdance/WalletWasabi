@@ -96,7 +96,7 @@ This should return the output:
 
 `key B4B72266C47E075E: public key "nopara73 (GitHub key) <nopara73@github.com>" imported` 
 
-From now on, with this public key you will be able to make sure the Wasabi software you download (the `.dmg` file) was not tampered with by checking against the corresponding `.asc` file. Navigate to the location where the `.dmg` and the `.asc` files are saved. In this case, it is in the Downloads folder (substitue accordingly, if necessary): 
+From now on, with this public key you will be able to make sure the Wasabi software you download (the `.dmg` file) was not tampered with by checking against the corresponding `.asc` file. Navigate to the location where the `.dmg` and the `.asc` files are saved. In this case, it is in the Downloads folder (substitute accordingly, if necessary): 
 
 ```sh
 cd downloads
